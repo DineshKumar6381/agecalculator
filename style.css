@@ -23,6 +23,7 @@ body
     padding: 15px;
     border-radius: 20px;
     align-items: center;
+    border:2px solid white;
 }
 .inputs{
     display: inline-flex;
